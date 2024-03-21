@@ -1,0 +1,29 @@
+Project Name: Superstore Returns Analysis
+Description: Conducting an analysis to understand the factors contributing to the high number of returned orders at Superstore and providing recommendations to reduce return rates.
+Purpose: The project aims to help Superstore identify the root causes of returns and develop strategies to mitigate them, thereby improving customer satisfaction and optimizing operational efficiency.
+Live Webpage: https://public.tableau.com/app/profile/mark.patterson6277/viz/SprintProject6Superstore/ReturnsandSales
+
+Project Overview:
+What did you build and why?: I conducted an analysis of return rates at Superstore to understand the underlying reasons for returns and identify potential solutions. This analysis involved exploring various factors such as product categories, seasonal trends, regional variations, and customer behavior.
+What problem did it solve?: The project addressed the challenge of high return rates at Superstore, helping the company identify areas for improvement and implement targeted strategies to reduce returns, thereby enhancing customer satisfaction and profitability.
+What technologies did you use?: We utilized Tableau for data visualization and analysis, along with Excel for data preprocessing and cleaning.
+How many weeks/months did it take to complete?: The project was completed over a period of 2 weeks, including data exploration, hypothesis formulation, dashboard design, and implementation.
+How many people took part in the project and what was your contribution?: The project was analyst by myself. My contribution included data exploration, hypothesis formulation, and dashboard design.
+
+Conclusion:
+
+Summary of Findings: Analysis of Superstore's Sales and Returns
+Superstore, a prominent retailer offering furniture, office supplies, and technology products nationwide, has encountered challenges with declining sales and an increasing number of returns. In response, we conducted an analysis to identify the underlying causes and explore potential solutions.
+Key Metrics Analysis:
+We began by examining key sales and returns metrics across Superstore's product categories:
+Office Supplies: 881,224 sales with 1,919 returns
+Technology: 1,076,381 sales with 636 returns
+Furniture: 944,072 sales with 671 returns
+Returns by Product Category:
+Our analysis revealed that printers, Xerox machines, copiers, scanners, and other office machinery are among the most frequently returned products. This suggests potential issues related to malfunctions, compatibility, or customer dissatisfaction with performance.
+Seasonal and Regional Trends:
+Further investigation into the data highlighted seasonal and regional trends in return rates:
+Spikes in returns during August and December/January, indicating potential seasonal influences linked to back-to-school shopping and year-end budget spending.
+Variations in return rates across different states, with Utah (56.84%), California (45.17%), and Oregon (44.68%) showing the highest average return rates. These states, predominantly located on the West Coast, warrant closer examination to understand regional factors contributing to returns.
+Next Steps and Recommendations:
+While our analysis provides valuable insights, further investigation is warranted to fully understand the root causes of returns. Customer reviews and feedback would be instrumental in identifying product-related issues, pricing concerns, competitive pressures, or other external factors impacting return rates. Armed with this information, Superstore can develop targeted strategies to address customer concerns, improve product quality, and enhance the overall shopping experience.
